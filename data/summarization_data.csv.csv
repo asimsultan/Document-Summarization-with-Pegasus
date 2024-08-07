@@ -1,0 +1,7 @@
+
+text,summary
+"This is a long text that needs to be summarized. It contains multiple sentences and various details that can be shortened.", "This is a summary of the long text."
+"Another example of a long text that can be summarized to a shorter version using Pegasus.", "A summary of the long text."
+"Summarization is the process of reducing a text to its main points. This text needs to be summarized.", "Summarization reduces text to main points."
+"This project involves fine-tuning Pegasus to summarize long texts effectively and efficiently.", "Fine-tuning Pegasus for text summarization."
+"Pegasus is a powerful model for text summarization tasks.", "Pegasus is powerful for text summarization."
